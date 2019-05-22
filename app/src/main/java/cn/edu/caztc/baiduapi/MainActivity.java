@@ -21,9 +21,9 @@ public class MainActivity extends AppCompatActivity {
     static String TAG="百度";
     static  int i=0;
     //设置APPID/AK/SK
-    public static final String APP_ID = "15926335";
-    public static final String API_KEY = "bDDKo7b7pfvsrRehqh3vAgWZ";
-    public static final String SECRET_KEY = "TxnKe5HtLuBhBVIlGjac6GH4NrxCnWBS";
+    public static final String APP_ID = "APP_ID";
+    public static final String API_KEY = "API_KEY";
+    public static final String SECRET_KEY = "SECRET_KEY";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
